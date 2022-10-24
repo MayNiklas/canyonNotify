@@ -1,5 +1,5 @@
 APScheduler==3.6.3
-beautifulsoup4==4.9.3
+beautifulsoup4==4.11.1
 certifi==2020.12.5
 chardet==5.0.0
 idna==3.4
