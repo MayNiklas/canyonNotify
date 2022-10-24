@@ -1,7 +1,7 @@
 APScheduler==3.6.3
 beautifulsoup4==4.9.3
 certifi==2020.12.5
-chardet==4.0.0
+chardet==5.0.0
 idna==2.10
 python-telegram-bot==13.14
 pytz==2021.1
